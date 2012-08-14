@@ -1,6 +1,6 @@
 package br.com.senac.aula_02;
 
-public class Chefe 
+public class Chefe extends Funcionario
 {
 	//Atributs
 	private Secretaria secretario;

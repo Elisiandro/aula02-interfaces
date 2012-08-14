@@ -1,16 +1,16 @@
 package br.com.senac.aula_02;
 
-public class Funcionario extends Chefe
+public class Funcionario extends Pessoa
 {
 	//Atributs
-	private int id;
+	private Integer id;
 
 	//Propriets
-	public int getId() {
+	public Integer getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(Integer id) {
 		this.id = id;
 	}
 	

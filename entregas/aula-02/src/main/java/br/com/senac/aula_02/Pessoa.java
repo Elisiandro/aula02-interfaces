@@ -1,6 +1,6 @@
 package br.com.senac.aula_02;
 
-public class Pessoa extends Funcionario
+public class Pessoa 
 {
 	//Atributs
 	private String nome;
